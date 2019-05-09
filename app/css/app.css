@@ -2957,6 +2957,7 @@ visibility: visible;
 }
 @media only screen and (min-width: 350px) and (max-width: 379px){
 
+
 .gridContainer{
   padding-left: 45px;
 }
@@ -2997,8 +2998,7 @@ ul.blogNavList {
     display: flex;
     justify-content: space-between;    
 }
-/*ul.blogNavList li {
-}*/
+
 ul.blogNavList li.active, .nav-list:hover {
     background-color: #fff;
     border-top: #00AEFF solid 4px;

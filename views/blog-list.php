@@ -15,6 +15,10 @@
 	            <div class="blogNavSectionInner" >
 	                <ul class="blogNavList" id="navContainer">
 	                    <li class="nav-list active"><a href="#">All</a></li>
+	            <div class="blogNavSectionInner">
+	                <ul class="blogNavList">
+	                    <li class='active nav-list'><a href="#">All</a></li>
+
 	                    <li id='test' class="nav-list"><a href="#">Intern Stories</a></li>
 	                    <li class="nav-list"><a href="#">Design</a></li>
 	                    <li class="nav-list"><a href="#">Frontend</a></li>
@@ -183,6 +187,7 @@
       </div>
    </div>
    		<script>
+
    			let btnContainer = document.getElementById("navContainer");
 
    			let btns = btnContainer.getElementsByClassName("nav-list");
@@ -194,7 +199,6 @@
 			    this.className += " active";
 			  });
 			}
-
 
    		</script>
 	</body>
