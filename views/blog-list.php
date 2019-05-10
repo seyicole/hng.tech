@@ -15,10 +15,6 @@
 	            <div class="blogNavSectionInner" >
 	                <ul class="blogNavList" id="navContainer">
 	                    <li class="nav-list active"><a href="#">All</a></li>
-	            <div class="blogNavSectionInner">
-	                <ul class="blogNavList">
-	                    <li class='active nav-list'><a href="#">All</a></li>
-
 	                    <li id='test' class="nav-list"><a href="#">Intern Stories</a></li>
 	                    <li class="nav-list"><a href="#">Design</a></li>
 	                    <li class="nav-list"><a href="#">Frontend</a></li>
@@ -44,7 +40,9 @@
 	            	<div class="articleDetails">
 	                    <span class="articleCategory text-uppercase"><h6>design</h6></span>
 	                    <h5 class="articleTitle text-capitalize">20 relative eesign trends from 2018</h5>
+
 	                    <p class="articleSummary text-muted">They're late. My experiment worked. They're all exactly twenty-five minutes slow. My insurance, it's your car, your insurance should pay for it. Hey, I wanna know ...</p>
+
 	                    <div class="articleInfo">
 	                        <img src="../app/img/interns/friday.jpg" alt="Author's Avatar" srcset="">
 	                        <span>by <span class="articleAuthorName"><a href="#">Design Walker</a> </span> | 4 days ago</span>
@@ -62,7 +60,9 @@
 	            	<div class="articleDetails">
 	                    <span class="articleCategory text-uppercase"><h6>design</h6></span>
 	                    <h5 class="articleTitle text-capitalize">20 relative eesign trends from 2018</h5>
+
 	                    <p class="articleSummary text-muted">They're late. My experiment worked. They're all exactly twenty-five minutes slow. My insurance, it's your car, your insurance should pay for it. Hey, I wanna know ...</p>
+
 	                    <div class="articleInfo">
 	                        <img src="../app/img/interns/friday.jpg" alt="Author's Avatar" srcset="">
 	                        <span>by <span class="articleAuthorName"><a href="#">Design Walker</a> </span> | 4 days ago</span>
@@ -82,6 +82,7 @@
 	                    <span class="articleCategory text-uppercase"><h6>design</h6></span>
 	                    <h5 class="articleTitle text-capitalize">20 relative eesign trends from 2018</h5>
 	                    <p class="articleSummary text-muted">They're late. My experiment worked. They're all exactly twenty-five minutes slow. My insurance, it's your car, your insurance should pay for it. Hey, I wanna know ...</p>
+
 	                    <div class="articleInfo">
 	                        <img src="../app/img/interns/friday.jpg" alt="Author's Avatar" srcset="">
 	                        <span>by <span class="articleAuthorName"><a href="#">Design Walker</a> </span> | 4 days ago</span>
@@ -100,7 +101,9 @@
 	            	<div class="articleDetails">
 	                    <span class="articleCategory text-uppercase"><h6>design</h6></span>
 	                    <h5 class="articleTitle text-capitalize">20 relative eesign trends from 2018</h5>
+
 	                    <p class="articleSummary text-muted">They're late. My experiment worked. They're all exactly twenty-five minutes slow. My insurance, it's your car, your insurance should pay for it. Hey, I wanna know ...</p>
+
 	                    <div class="articleInfo">
 	                        <img src="../app/img/interns/friday.jpg" alt="Author's Avatar" srcset="">
 	                        <span>by <span class="articleAuthorName"><a href="#">Design Walker</a> </span> | 4 days ago</span>
@@ -119,7 +122,9 @@
 	            	<div class="articleDetails">
 	                    <span class="articleCategory text-uppercase"><h6>design</h6></span>
 	                    <h5 class="articleTitle text-capitalize">20 relative eesign trends from 2018</h5>
+
 	                    <p class="articleSummary text-muted">They're late. My experiment worked. They're all exactly twenty-five minutes slow. My insurance, it's your car, your insurance should pay for it. Hey, I wanna know ...</p>
+
 	                    <div class="articleInfo">
 	                        <img src="../app/img/interns/friday.jpg" alt="Author's Avatar" srcset="">
 	                        <span>by <span class="articleAuthorName"><a href="#">Design Walker</a> </span> | 4 days ago</span>
