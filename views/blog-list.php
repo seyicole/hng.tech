@@ -187,7 +187,6 @@
       </div>
    </div>
    		<script>
-
    			let btnContainer = document.getElementById("navContainer");
 
    			let btns = btnContainer.getElementsByClassName("nav-list");
